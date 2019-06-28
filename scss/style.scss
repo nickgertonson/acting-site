@@ -229,8 +229,9 @@ a{
     z-index: 10;
     padding-top: 4%;
     padding-bottom: 5%;
+
     @media all and (min-width: 1400px){
-        margin-top: 13%;
+        margin-top: 10%;
     }
     .bg {
         width: 100%;
@@ -323,7 +324,7 @@ a{
 // Footer
 .section-footer {
     background-color: $lightblue;
-    margin: 30% 0px 0px 0px;
+    margin: 10% 0px 0px 0px;
     padding-top: 20px;
     @media all and (max-width: 900px){
         margin: 35% 0px 0px 0px;
